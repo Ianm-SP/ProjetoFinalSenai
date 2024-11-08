@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hcafe\\source\\repos\\TheReal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|c:\\users\\hcafe\\source\\repos\\thereal\\thereal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|solutionrelative:thereal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|c:\\users\\hcafe\\source\\repos\\thereal\\thereal\\services\\bibliotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|solutionrelative:thereal\\services\\bibliotecaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|c:\\users\\hcafe\\source\\repos\\thereal\\thereal\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|solutionrelative:thereal\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|c:\\users\\hcafe\\source\\repos\\thereal\\thereal\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|solutionrelative:thereal\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|c:\\users\\hcafe\\source\\repos\\thereal\\thereal\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|solutionrelative:thereal\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|c:\\users\\hcafe\\source\\repos\\thereal\\thereal\\thereal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DD2FB5E-32EE-4476-8D7E-B5FE53BD6C06}|TheReal\\TheReal.csproj|solutionrelative:thereal\\thereal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BibliotecaService.cs",
+              "DocumentMoniker": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\Services\\BibliotecaService.cs",
+              "RelativeDocumentMoniker": "TheReal\\Services\\BibliotecaService.cs",
+              "ToolTip": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\Services\\BibliotecaService.cs",
+              "RelativeToolTip": "TheReal\\Services\\BibliotecaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:38:39.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "TheReal\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\Models\\Usuario.cs",
+              "RelativeToolTip": "TheReal\\Models\\Usuario.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:38:08.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\Models\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "TheReal\\Models\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\Models\\Emprestimo.cs",
+              "RelativeToolTip": "TheReal\\Models\\Emprestimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:38:02.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "TheReal\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\Models\\Livro.cs",
+              "RelativeToolTip": "TheReal\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:37:32.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TheReal",
+              "DocumentMoniker": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\TheReal.csproj",
+              "RelativeDocumentMoniker": "TheReal\\TheReal.csproj",
+              "ToolTip": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\TheReal.csproj",
+              "RelativeToolTip": "TheReal\\TheReal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T14:37:18.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\Program.cs",
+              "RelativeDocumentMoniker": "TheReal\\Program.cs",
+              "ToolTip": "C:\\Users\\hcafe\\source\\repos\\TheReal\\TheReal\\Program.cs",
+              "RelativeToolTip": "TheReal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:36:54.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

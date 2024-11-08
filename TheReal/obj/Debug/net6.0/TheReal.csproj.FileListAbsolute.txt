@@ -1,0 +1,14 @@
+C:\Users\hcafe\source\repos\TheReal\TheReal\obj\Debug\net6.0\TheReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcafe\source\repos\TheReal\TheReal\obj\Debug\net6.0\TheReal.AssemblyInfoInputs.cache
+C:\Users\hcafe\source\repos\TheReal\TheReal\obj\Debug\net6.0\TheReal.AssemblyInfo.cs
+C:\Users\hcafe\source\repos\TheReal\TheReal\obj\Debug\net6.0\TheReal.csproj.CoreCompileInputs.cache
+C:\Users\hcafe\source\repos\TheReal\TheReal\bin\Debug\net6.0\TheReal.exe
+C:\Users\hcafe\source\repos\TheReal\TheReal\bin\Debug\net6.0\TheReal.deps.json
+C:\Users\hcafe\source\repos\TheReal\TheReal\bin\Debug\net6.0\TheReal.runtimeconfig.json
+C:\Users\hcafe\source\repos\TheReal\TheReal\bin\Debug\net6.0\TheReal.dll
+C:\Users\hcafe\source\repos\TheReal\TheReal\bin\Debug\net6.0\TheReal.pdb
+C:\Users\hcafe\source\repos\TheReal\TheReal\obj\Debug\net6.0\TheReal.dll
+C:\Users\hcafe\source\repos\TheReal\TheReal\obj\Debug\net6.0\refint\TheReal.dll
+C:\Users\hcafe\source\repos\TheReal\TheReal\obj\Debug\net6.0\TheReal.pdb
+C:\Users\hcafe\source\repos\TheReal\TheReal\obj\Debug\net6.0\TheReal.genruntimeconfig.cache
+C:\Users\hcafe\source\repos\TheReal\TheReal\obj\Debug\net6.0\ref\TheReal.dll
